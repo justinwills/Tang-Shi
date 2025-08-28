@@ -1,0 +1,12 @@
+body{
+    background-image:url(chinese\ background\ 2.jpg);
+}
+h1{
+    background:linear-gradient(to right,white,lightgray,gray);
+    text-align: center;
+    font-size: 40px;
+}
+h1 a{
+    text-decoration: none;
+    color: black;
+}
